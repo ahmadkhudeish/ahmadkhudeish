@@ -4,6 +4,6 @@
 
 - 🔭 I’m currently working on some projects related to AI SaaS apps as well as mobile apps.
 - 🌱 I’m currently learning about GenAI as well as Machine Learning and how to best leverage those to make useful products. 
-- 💬 Ask me about anything related to **React Native**, **React**, **NextJS**, **NestJS**, **Kuberenetes**, **DevOps**, **CI/CD pipelines**, **deployment** etc...
+- 💬 Ask me about anything related to **React Native**, **React**, **NextJS**, **NestJS**, **C# .Net Core**, **Kuberenetes**, **DevOps**, **CI/CD pipelines**, **deployment** etc...
 
 Open to collaboration, you can reach me on ahmadkhudeish@gmail.com
